@@ -1,0 +1,15 @@
+[{
+        "title": "Title",
+        "abstract": " description ",
+        "type": "post",
+        "link": "https://",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://",
+            "name": "Name"
+        },
+        "tags": ["teste"],
+        "language": "en-us",
+        "date": "0000-01-01"
+    }
+]

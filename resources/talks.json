@@ -1,0 +1,24 @@
+[{
+        "title": "Title",
+        "abstract": " description",
+        "type": "talk",
+        "event": {
+            "link": "http://",
+            "name": "Event name"
+        },
+        "slides": "http://",
+        "photos": "endereco foto",
+        "video": "",
+        "tags": ["teste"],
+        "location": {
+            "latitude": 6.2646247,
+            "longitude": -75.5687959,
+            "country": " ",
+            "uf": " ",
+            "city": " "
+        },
+        "additionalLinks": [" ", " "],
+        "language": "en-us",
+        "date": "0000-02-02"
+    }
+]
