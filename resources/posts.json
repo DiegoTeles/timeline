@@ -1,15 +1,281 @@
 [{
-        "title": "Title",
-        "abstract": " description ",
+        "title": "Async Hook",
+        "abstract": "O async_hooks facilita o rastreamento de recursos com facilidade e fornece uma API para registrar callback's rastreando o tempo de vida dos recursos que foram criados dentro de qualquer aplicação em Node.js...",
         "type": "post",
-        "link": "https://",
+        "link": "https://medium.com/p/6b3671a36409",
         "additionalLinks": [""],
         "portal": {
-            "link": "https://",
-            "name": "Name"
+            "link": "",
+            "name": ""
         },
-        "tags": ["teste"],
-        "language": "en-us",
-        "date": "0000-01-01"
+        "tags": ["NodeJS", "Async Hooks"],
+        "language": "pt-br",
+        "date": "2019-07-07"
+    },
+    {
+        "title": "Controle de fluxo",
+        "abstract": "Bom, eles servem para as nossas tomadas de decisões, ou seja, com eles podemos, vou exemplificar com um fluxograma como seria uma interação de tomadas de decisões. ",
+        "type": "post",
+        "link": "https://medium.com/unicornacademy/controle-de-fluxo-252baf2920fd",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/unicornacademy/",
+            "name": "Unicorn Academy"
+        },
+        "tags": ["Programming Logic", "Development"],
+        "language": "pt-br",
+        "date": "2019-06-03"
+    },
+    {
+        "title": "Operadores",
+        "abstract": "Na área do desenvolvimento de software temos Operadores Relacionais, Operadores Lógicos e Operadores Matemáticos (que todos conhecem). ",
+        "type": "post",
+        "link": "https://medium.com/unicornacademy/operadores-3b7d4262c51a",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/unicornacademy/",
+            "name": "Unicorn Academy"
+        },
+        "tags": ["Programming Logic", "Development"],        
+        "language": "pt-br",
+        "date": "2019-06-03"
+    },
+    {
+        "title": "Variáveis",
+        "abstract": " Variáveis são nomes atribuídos à endereços na memória de um computador onde se guardam dados... ",
+        "type": "post",
+        "link": "https://medium.com/unicornacademy/vari%C3%A1veis-a73ae2b11e85",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/unicornacademy/",
+            "name": "Unicorn Academy"
+        },
+        "tags": ["Programming Logic", "Development"],
+        "language": "pt-br",
+        "date": "2019-06-03"
+    },
+    {
+        "title": "Lógica de programação",
+        "abstract": "Quando falamos de lógica de programação pensamos muitas vezes em um bicho de 7 cabeças, mas nem é, pois se trata mais em passar tudo que fazemos no nosso dia a dia para uma forma escrita ou visual seguindo um padrão. ",
+        "type": "post",
+        "link": "https://medium.com/unicornacademy/l%C3%B3gica-de-programa%C3%A7%C3%A3o-7014a0174565",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/unicornacademy/",
+            "name": "Unicorn Academy"
+        },
+        "tags": ["Programming Logic"],
+        "language": "pt-br",
+        "date": "2019-06-02"
+    },
+    {
+        "title": "O que é Inteligência Artificial",
+        "abstract": "Inteligência Artificial, (IA) é o desenvolvimento de sistemas computacionais que são capazes simular execuções de tarefas que requer inteligência humana de raciocinar, perceber, tomar decisões e resolver problemas, ter a capacidade de ser inteligente. ",
+        "type": "post",
+        "link": "https://medium.com/ialovers/o-que-%C3%A9-intelig%C3%AAncia-artificial-c2598500e8ea",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/ialovers/",
+            "name": "IA Lovers"
+        },
+        "tags": ["IA"],
+        "language": "pt-br",
+        "date": "2019-04-27"
+    },
+    {
+        "title": "Array métodos — map, filter e reduce",
+        "abstract": "Vamos agora conhecer e ver o uso desses métodos para tratativas de arrays, ambos são simples e os mais famosos em relação a tratativas. ",
+        "type": "post",
+        "link": "https://medium.com/jsworld/array-m%C3%A9todos-map-filter-e-reduce-4ad6394142a0",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/jsworld/",
+            "name": "JavaScript World"
+        },
+        "tags": ["JavaScript", "Development"],
+        "language": "pt-br",
+        "date": "2019-03-05"
+    },
+    {
+        "title": "Método — .slice()",
+        "abstract": "Quando se trata de tratamento de dados, podemos usar o .slice() para selecionarmos somente o que queremos que apareça para o usuário, ou seja, se tivermos uma string Diego Telles e quisermos mostrar somente Diego usamos o .slice()  ",
+        "type": "post",
+        "link": "https://medium.com/jsworld/m%C3%A9todo-slice-14a4b98b9bea",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/jsworld/",
+            "name": "JavaScript World"
+        },
+        "tags": ["JavaScript", "Development"],
+        "language": "pt-br",
+        "date": "2019-03-04"
+    },
+    {
+        "title": "Array Métodos — .some()",
+        "abstract": "Olá pessoal, nesse artigo vou abordar sobre um método muito útil em relação a tratativas de dados em formato JSON, que são denominados como Métodos em JavaScript, na verdade vou fazer uma série abordando cada um deles separadamente em cada artigo para mantermos um foco e não ficar muito extenso. ",
+        "type": "post",
+        "link": "https://medium.com/jsworld/array-m%C3%A9todos-some-a90da591ed63",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/jsworld/",
+            "name": "JavaScript World"
+        },
+        "tags": ["JavaScript", "Development"],
+        "language": "pt-br",
+        "date": "2019-02-25"
+    },
+    {
+        "title": "Versionando seu projeto Node-RED",
+        "abstract": "Bom, graças ao update da versão 0.18.0 temos o poder de trabalhar com o git em nossos projetos, essa feature foi criada com o nome de Projects, nela temos o poder de gerenciar diversos projetos em um ambiente e também nos possibilita a trabalhar usando o Git flow. ",
+        "type": "post",
+        "link": "https://medium.com/nodered/versionando-seu-projeto-node-red-1286c107f6e7",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/nodered/",
+            "name": "Node-RED BR"
+        },
+        "tags": ["Node-RED", "Development", "Git"],
+        "language": "pt-br",
+        "date": "2019-02-10"
+    },
+    {
+        "title": "Consumindo API REST com NodeRED",
+        "abstract": "Muitos devem se perguntar como realizamos tratativas em APIs usando o nodeRED, nesse artigo vou mostrar um pouco desse universo de requisições de apis usando o nodeRED e o restante vai da necessidade de cada projeto ",
+        "type": "post",
+        "link": "https://medium.com/nodered/consumindo-api-rest-get-437c937aa925",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/nodered/",
+            "name": "Node-RED BR"
+        },
+        "tags": ["Node-RED", "Development", "API"],
+        "language": "pt-br",
+        "date": "2019-01-23"
+    },
+    {
+        "title": "Getting Started Node-RED",
+        "abstract": "Olá pessoal, nesse primeiro artigo técnico nada mais justo que falarmos sobre como configurarmos nosso ambiente para iniciar nossa aplicação com nodeRED. ",
+        "type": "post",
+        "link": "https://medium.com/nodered/getting-started-a1345aaa27f1",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/nodered/",
+            "name": "Node-RED BR"
+        },
+        "tags": ["Node-RED", "Development"],
+        "language": "pt-br",
+        "date": "2019-01-16"
+    },
+    {
+        "title": "Callback’s",
+        "abstract": "Quando falamos em callback, acredito que talvez seja uma coisa um pouco confusa na maioria das definições o callback é uma função chamar outra função para trazer o resultado da função final.",
+        "type": "post",
+        "link": "https://medium.com/jsworld/callbacks-b6f3afc5dbcd",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/jsworld/",
+            "name": "JavaScript World"
+        },
+        "tags": ["JavaScript", "Development"],
+        "language": "pt-br",
+        "date": "2019-01-04"
+    },
+    {
+        "title": "Diferenças nas declarações de variáveis: let x var",
+        "abstract": "Olá mestres, como muitas pessoas ainda tem duvidas em como declarar suas variáveis com JavaScript e muitas vezes acabam por declarar errado, fiz essa publicação pra ajudar você a entender melhor para que serve cada tipo de declaração (var e let).",
+        "type": "post",
+        "link": "https://medium.com/jsworld/diferen%C3%A7as-nas-declara%C3%A7%C3%B5es-de-vari%C3%A1veis-let-x-var-9c3480752c3d",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/jsworld/",
+            "name": "JavaScript World"
+        },
+        "tags": ["JavaScript", "Development"],
+        "language": "pt-br",
+        "date": "2018-12-28"
+    },
+    {
+        "title": "Escopo Global x Escopo Local",
+        "abstract": "No JavaScript existem somente dois tipos de escopos: escopo global e local. Quando se trata de escopo de variável estamos nos referindo a qual local de nosso código uma determinada variável pode ser acessada. ",
+        "type": "post",
+        "link": "https://medium.com/jsworld/escopo-global-x-escopo-local-2bbde981c0f9",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/jsworld/",
+            "name": "JavaScript World"
+        },
+        "tags": ["JavaScript", "Development"],
+        "language": "pt-br",
+        "date": "2018-12-28"
+    },
+    {
+        "title": "O Node-RED",
+        "abstract": "Como vocês sabem, o mercado tecnológico vem crescendo muito na area de IoT, isso se leva devido ao baixo custo que temos hoje com os periféricos, placas, sejam elas micro-controladores ou até mesmo micro-computadores. ",
+        "type": "post",
+        "link": "https://medium.com/@DiegoTelles/o-node-red-164589ee6f09",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "",
+            "name": ""
+        },
+        "tags": ["Node-RED"],
+        "language": "pt-br",
+        "date": "2018-07-26"
+    },
+    {
+        "title": "Trabalhando com IoT usando JavaScript",
+        "abstract": "Olá, pessoal nesse artigo vamos falar sobre o uso de IoT usando o NodeJS, ou seja escrever aplicações para IoT usando o poderoso JavaScript em nossas aplicações. ",
+        "type": "post",
+        "link": "https://medium.com/tht-things-hackers-team/trabalhando-com-iot-usando-javascript-b51fea370f64",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "",
+            "name": ""
+        },
+        "tags": ["IoT", "javascript","nodejs", "Johnny 5"],
+        "language": "pt-br",
+        "date": "2018-04-12"
+    },
+    {
+        "title": "Retrospectiva profissional 2017!",
+        "abstract": "Esse artigo não tem como intuito mostrar nada técnico ou até mesmo seja interessante, mas sim relatar um pouco da minha trajetória profissional no turbulento ano de 2017 ",
+        "type": "post",
+        "link": "https://medium.com/@DiegoTelles/retrospectiva-profissional-2017-bf289090be49",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "",
+            "name": ""
+        },
+        "tags": ["Carreira"],
+        "language": "pt-br",
+        "date": "2018-01-06"
+    },
+    {
+        "title": "Consumindo API Pokémon com NodeJS",
+        "abstract": "Como consumir uma API via URL com NodeJS e nos retornar com JSON no console(terminal)de maneira fácil. ",
+        "type": "post",
+        "link": "https://medium.com/tht-things-hackers-team/consumindo-api-pok%C3%A9mon-com-nodejs-24d83e88339",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com/tht-things-hackers-team/",
+            "name": "THT - Things Hacker Team"
+        },
+        "tags": ["nodejs", "API", "javascript"],
+        "language": "pt-br",
+        "date": "2017-11-15"        
+    },
+    {
+        "title": "Criando um Bot para o seu Twitter com Node-RED",
+        "abstract": "Olá galera nesse artigo vou mostrar pra vocês como é simples e fácil a gente realizar integrações com o Twitter. ",
+        "type": "post",
+        "link": "https://medium.com/@DiegoTelles/criando-um-bot-para-o-seu-twitter-com-node-red-a07b8b8d5f5a",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://medium.com",
+            "name": "Diego Telles"
+        },
+        "tags": ["nodejs", "Node-RED", "javascript"],
+        "language": "pt-br",
+        "date": "2017-11-15"
     }
 ]
