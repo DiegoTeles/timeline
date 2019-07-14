@@ -69,6 +69,7 @@ function mapLatLong(location) {
 }
 
 function mapTalkMarkdown(item) {
+
   const contentSession = mapContentLinks(item);
 
   return [
