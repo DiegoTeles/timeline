@@ -1,24 +1,530 @@
-[{
-        "title": "Title",
-        "abstract": " description",
+[
+    {
+        "title": "Async Hooks ",
+        "abstract": "Conheça o Async Hooks ",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/262285365/",
+            "name": "Nerdzão #121 - O poder do Node.js"
+        },
+        "slides": "https://docs.google.com/presentation/d/1AKtlPTXXsMPDKDKrreRPUVfDJ4nefT5Zf8rZitd_ToI/edit?usp=sharing",
+        "photos": "images/2019-05-11_nerdzao_day_avanade",
+        "video": "",
+        "tags": ["nodejs", "nodered", "ïot"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-07-21"
+    },
+    {
+        "title": "Requisições API com NodeRED ",
+        "abstract": "Faça request com Nodered de maneira simples e rapida gastando 10 min para montar seu endpoint ",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "Nerdzão "
+        },
+        "slides": "https://docs.google.com/presentation/d/1s3Z8XOQJM4wcAIAQFCrH2IYL-2JdL7h1Gh-gSUJzEZo/edit?usp=sharing",
+        "photos": "",
+        "video": "",
+        "tags": ["nodejs", "nodered", "API"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-02-12"
+    },
+    {
+    "title": "Node Red ",
+    "abstract": "Aprenda a prototipar com NodeRED",
+    "type": "talk",
+    "event": {
+        "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arduino-e-makers",
+        "name": "TDC Solution JAM - 2017"
+    },
+    "slides": "https://docs.google.com/presentation/d/1AKtlPTXXsMPDKDKrreRPUVfDJ4nefT5Zf8rZitd_ToI/edit?usp=sharing",
+    "photos": "images/2019-05-11_nerdzao_day_avanade",
+    "video": "",
+    "tags": ["nodejs", "nodered", "ïot"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2017-07-21"
+},{
+    "title": "Node Red ",
+    "abstract": "Aprenda a prototipar com NodeRED",
+    "type": "talk",
+    "event": {
+        "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arduino-e-makers",
+        "name": "TDC Solution JAM - 2017"
+    },
+    "slides": "https://docs.google.com/presentation/d/1AKtlPTXXsMPDKDKrreRPUVfDJ4nefT5Zf8rZitd_ToI/edit?usp=sharing",
+    "photos": "images/2019-05-11_nerdzao_day_avanade",
+    "video": "",
+    "tags": ["nodejs", "nodered", "ïot"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2017-07-21"
+},
+{
+    "title": "Unindo forças: Bluemix + Arduino + Node Red ",
+    "abstract": "Muito se fala na criação de protótipos para IoT porem a integração deles com um ambiente em nuvem que vem sendo um grande desafio. Para isso algumas empresas vem dedicando seus esforços em simplificar essa integração. O Bluemix junto ao node Red tem aberto um grande leque de possibilidades utilizando arduino, ja que o acesso ao hardware se tornou facil. Vamos aprender a usar o poder do arduino com inteligência da ferramenta Bluemix.",
+    "type": "talk",
+    "event": {
+        "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-arduino-e-makers",
+        "name": "TDC - 2017"
+    },
+    "slides": "http://",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs", "nodered"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2017-07-22"
+},{
+    "title": "REDUZA EM 70% O TEMPO DE DESENVOLVIMENTO DAS SUAS SOLUÇÕES",
+    "abstract": "Vamos conhecer o nodeRED, uma poderosa ferramenta para desenvolvimento web e IOT totalmente escrita em javaScript e de fácil aprendizado, onde o maior objetivo é escrever menos código e aumentar o desempenho, nessa palestra veremos uma breve demonstração e vamos nos divertir aprendendo!",
+    "type": "talk",
+    "event": {
+        "link": "https://roadsec.com.br/palestrante/diego-telles",
+        "name": "Roadsec Campinas"
+    },
+    "slides": "http://",
+    "photos": "images/2019-04-13_roadsec_campinas",
+    "video": "",
+    "tags": ["nodejs", "nodered"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "Campinas"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2019-04-13"
+},{
+    "title": "React Starter Pack",
+    "abstract": "Você que está pensando iniciar na carreira Dev como FrontEnd usando Reactjs, nessa talk vamos bater um papo sobre o que precisamos estudar para iniciarmos a carreira com ReactJS, ver como o framework do Facebook se comporta, aprender conceitos de componentes, states e props e ver um pouco sobre como o Redux, e middlewares podem te ajudar no desenvolvimento da aplicação.",
+    "type": "talk",
+    "event": {
+        "link": "https://www.meetup.com/pt-BR/Nerdzao/events/261054370/",
+        "name": "Nerdzão #106 - Nerdzão Day + Avanade"
+    },
+    "slides": "http://",
+    "photos": "images/2019-05-11_nerdzao_day_avanade",
+    "video": "",
+    "tags": ["nodejs", "react", "frontend"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2019-05-11"
+},
+{
+    "title": "Trabalhando com IoT de forma escalável usando JavaScript",
+    "abstract": "Saiba como desenvolvolver aplicações usando o NodeRED como orquestrador de serviços para manipular suas aplicações de maneira simples sem a necessidade de escrever codigo e utilizando orientação a blocos a seu favor",
+    "type": "talk",
+    "event": {
+        "link": "https://www.meetup.com/pt-BR/CaquiCoders/events/249459227/",
+        "name": "CaquiCoders #10 - Diferentes aplicações para IoT (internet das coisas)"
+    },
+    "slides": "https://docs.google.com/presentation/d/1BfvVstNBB0Hwa3wZ9IG0b6vKAz15vWBr3ORVt062uUQ/edit?usp=sharing",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs", "iot", "nodered"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2018-04-14"
+},
+{
+    "title": "Desenvolvendo aplicação com NodeRED de maneira rápida",
+    "abstract": "Saiba como desenvolvolver aplicações usando o NodeRED como orquestrador de serviços para manipular suas aplicações de maneira simples sem a necessidade de escrever codigo e utilizando orientação a blocos a seu favor",
+    "type": "talk",
+    "event": {
+        "link": "https://www.meetup.com/pt-BR/Nerdzao/events/261054370/",
+        "name": "Nerdzão #45 - Newbie to Ninja with Node.js"
+    },
+    "slides": "http://",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs", "chatbot", "nodered"],
+    "location": {
+        "latitude": -23.553513,
+        "longitude": -46.657505,
+        "country": "Brasil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [" ", " "],
+    "language": "pt-br",
+    "date": "2018-04-05"
+},
+{
+        "title": "Desenvolvimento de ChatBot com NodeJS usando Bot Framework da Microsoft",
+        "abstract": "Palestra mostrando com criaçar um Chatbot utilizando Node JS com Bot Framework da Microsoft",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/CaquiCoders/events/253499252/",
+            "name": "[ONLINE] CaquiCoders #17 - Chatbot com NodeJS + API Asp.Net Core,Nuvem e Docker"
+        },
+        "slides": "http://",
+        "photos": "",
+        "video": "https://www.youtube.com/watch?v=9loCPMsNCC0",
+        "tags": ["nodejs", "chatbot", "BotFramework"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Global",
+            "uf": "",
+            "city": ""
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2018-08-08"
+    },
+    {
+        "title": "Criando Chatbots com Node Red e Watson Conversation",
+        "abstract": " Crie bots facilmente com nodered e entenda como tratar fluxos de nodes usando Watson conversation",
         "type": "talk",
         "event": {
             "link": "http://",
-            "name": "Event name"
+            "name": "#Node Red Na Veia# THT + GERSE in IFSP Campus Guarulhos"
         },
         "slides": "http://",
-        "photos": "endereco foto",
+        "photos": "",
         "video": "",
-        "tags": ["teste"],
+        "tags": ["Node-red", "watson", "development"],
         "location": {
-            "latitude": 6.2646247,
-            "longitude": -75.5687959,
-            "country": " ",
-            "uf": " ",
-            "city": " "
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
         },
         "additionalLinks": [" ", " "],
-        "language": "en-us",
-        "date": "0000-02-02"
+        "language": "pt-br",
+        "date": "2018-03-24"
+    },
+    {
+        "title": "Primeiros passos com Arduino - como usar para prototipar?",
+        "abstract": " Neste primeiro meetup na Globalcode vamos mostrar alguns usos possíveis do Arduino para quem ainda não conhece e conversar sobre projetos em andamento com quem conhece. Traga seus amigos para que vejam como usar para prototipar ideias que podem até ajudar a melhorar sua cidade.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/247891412/",
+            "name": "Primeiros passos com Arduino - como usar para prototipar?"
+        },
+        "slides": "https://docs.google.com/presentation/d/1Q2Qvs_ZdZdnfC1YgJDmAjxkM0KcumiAtL37C6jJvzbk/edit?usp=sharing",
+        "photos": "images/2018-03-01_primeiros_passos_com_arduino",
+        "video": "",
+        "tags": ["arduino", "iot"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2018-03-01"
+    },
+    {
+        "title": "NodeRED + Bluemix",
+        "abstract": " Vamos criar integrações com inteligencia artificial da IBM, o Watson e ver como podemos aproveitar esse serviço",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "Campus Party Minas Gerais 2017 - #CPMG2"
+        },
+        "slides": "",
+        "photos": "2017-11-01_campus_party_bh",
+        "video": "https://web.facebook.com/page.erickwendel/videos/1166364923494252/",
+        "tags": ["Node-red", "chatbot", "iot"],
+        "location": {
+            "latitude": -19.920275,
+            "longitude": -43.934066,
+            "country": "Brazil",
+            "uf": "MG",
+            "city": "Belo Horizonte"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-11-01"
+    },
+    {
+        "title": "Simplificando IoT com Arduino, Node Red, Telegram #CPMG2",
+        "abstract": "Vamos entender o conceito de IoT com Arduino e como integrar sensores e atuadores com Node Red. Iremos ver também aprender como criar uma interface web para essa interações por meio dos nodes. Tambem criar um Chatbot com Telegram",
+        "type": "talk",
+        "event": {
+            "link": "https://campuse.ro/events/campus-party-minas-gerais-2017/workshop/simplificando-iot-com-arduino-node-red-telegram-cpmg2/",
+            "name": "Campus Party Minas Gerais 2017 - #CPMG2"
+        },
+        "slides": "http://",
+        "photos": "2017-11-01_campus_party_bh",
+        "video": "",
+        "tags": ["Node-red", "chatbot"],
+        "location": {
+            "latitude": -19.920275,
+            "longitude": -43.934066,
+            "country": "Brazil",
+            "uf": "MG",
+            "city": "Belo Horizonte"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-11-02"
+    },
+
+    {
+        "title": "Hackeando sua casa #CPMG2",
+        "abstract": " Nesse workshop mostro como Criar integrações IoT usando Telegram e Chatbot para controlar sua casa",
+        "type": "talk",
+        "event": {
+            "link": "https://campuse.ro/events/campus-party-minas-gerais-2017/workshop/simplificando-iot-com-arduino-node-red-telegram-cpmg2/",
+            "name": "Campus Party Minas Gerais 2017 - #CPMG2"
+        },
+        "slides": "http://",
+        "photos": "2017-11-01_campus_party_bh",
+        "video": "",
+        "tags": ["Node-red", "chatbot", "iot"],
+        "location": {
+            "latitude": -19.920275,
+            "longitude": -43.934066,
+            "country": "Brazil",
+            "uf": "MG",
+            "city": "Belo Horizonte"
+        },
+        "additionalLinks": ["https://imasters.com.br/desenvolvimento/cobertura-workshop-coders-na-campus-party-minas-gerais-2017", " "],
+        "language": "pt-br",
+        "date": "2017-11-02"
+    },
+    {
+        "title": "Connecting Knowledge 12.1 + Faculdade Drummond Workshop",
+        "abstract": "Como montar uma area de trabalho de Node Red e integrar com Arduino. criando um ChatBot no telegram que interaja com tudo isso.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/243915003/",
+            "name": "Connecting Knowledge 12.1"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "",
+        "tags": ["Node-RED", "Development","Chatbots"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-10-25"
+    },
+
+    {
+        "title": "ReactNative Starter",
+        "abstract": " Como iniciar na area mobile com ReactNative",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/241571883/",
+            "name": "NerdZão Day #1 - 6 Trilhas Tech Simultâneas"
+        },
+        "slides": "",
+        "photos": "images/2017-08-12_nerdzao_day_01",
+        "video": "",
+        "tags": ["ReactNative", "Javascript", "Mobile"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-08-12"
+    },
+    {
+        "title": "Integrando Chatbot + NodeRed + IoT Open Source",
+        "abstract": " description",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/241571883/",
+            "name": "NerdZão Day #1 - 6 Trilhas Tech Simultâneas"
+        },
+        "slides": "http://",
+        "photos": "images/2017-08-12_nerdzao_day_01",
+        "video": "",
+        "tags": ["Chatbots", "Node-RED"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-08-12"
+    },
+    {
+        "title": "Vamos aprender a base Junior de ASP.Net Code First",
+        "abstract": "Nesse Mini-curso teremos um HandsOn-Code com a IDE Visual Studio e Com o Gerenciador de Banco de dados SQL Server, essas duas potentes ferramentas da Microsoft juntas em um unico Meetup!",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/240105834/",
+            "name": "HandsOn - Vamos aprender a base Junior de ASP.Net Code First"
+        },
+        "slides": "http://",
+        "photos": "images/2017-07-15_aspnet_code_first_handson",
+        "video": "",
+        "tags": [".Net", "ASP.Net", "Development"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-07-15"
+    },
+    {
+        "title": "Como ser Designer sem ser Designer - Iniciante",
+        "abstract": " HandsOn - Para o tratamento de suas imagens, criação de vetores e dar aquele toque profissional no logo que está na sua cabeça, mas não tem tempo pra caçar as famosas video aulas para estudar.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/240586350/",
+            "name": "HandsOn - Como ser Designer sem ser Designer - Iniciante"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "",
+        "tags": ["Photoshop", "Lightroom"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-07-15"
+    },
+    {
+        "title": "Trabalhando com sensores usando NodeRed + Arduino",
+        "abstract": "Vamos criar uma aplicação do ZERO e mostrar o passo a passo para vocês, vem com a gente e traga seu notebook ou aquele arduino que ganhou no evento e não faz ideia do que fazer com ele ",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/241134847/",
+            "name": "THT - Trabalhando com sensores usando NodeRed + Arduino"
+        },
+        "slides": "",
+        "photos": "images/2017-07-13_imasters_nodered",
+        "video": "",
+        "tags": ["Node-RED", "IBM Clould", "IoT"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-07-13"
+    },
+    {
+        "title": "Desbravando Bluemix",
+        "abstract": "Venha aprender e dividir seus conhecimentos sobre essa poderosa e elegante Ferramenta ainda conhecendo um assistente para todos seus projetos Watson.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/239754424/",
+            "name": "THT - Desbravando Bluemix"
+        },
+        "slides": "",
+        "photos": "images/2017-05-20_desbravando_bluemix_com_nodered",
+        "video": "",
+        "tags": ["Node-RED", "IBM Clould", "IoT"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-05-20"
+    },
+    {
+        "title": "Workshop com Node-RED e embarcados",
+        "abstract": "A ideia é: Levar todo tipo de placas que quiserem e tentar integrar com Node Red. Arduino, Raspberry, Intel Boads e etc...Vamos fazer um dia de aprendizado, para ajudar a divulgar essa poderosa ferramenta. E quem sabe até implementar com Bluemix, e IBM Watson.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/239465691/",
+            "name": "THT - Brincando com Node RED em Embarcados ( IOTzando )"
+        },
+        "slides": "",
+        "photos": "images/2017-04-29_workshop_nodered_e_embarcados",
+        "video": "",
+        "tags": ["IoT", "Embarcados", "Node-RED", "IBM Cloud"],
+        "location": {
+            "latitude": -23.553513,
+            "longitude": -46.657505,
+            "country": "Brasil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [" ", " "],
+        "language": "pt-br",
+        "date": "2017-04-29"
     }
 ]
