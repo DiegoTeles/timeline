@@ -16,16 +16,16 @@ Medium:  [@DiegoTelles](http://medium.com/DiegoTeles/)
 
 * **Blog Posts**: 2019/July - 2017/November 
 * **Conference Talks**: 2019/May - 2017/April 
-* **Demonstrations**: 0000/January - 0000/January 
-* **Projects**: 0000/January - 0000/January 
+* **Demonstrations**: 2018/January - 2018/January 
+* **Projects**: 2018/January - 2018/January 
 
-#### Presentations' number: 24
+#### Presentations' number: 27
 
 ## Table of Contents
 
 - [Blog Posts (20)](#blog-posts)
 - [Conference Talks (23)](#conference-talks)
-- [Demonstrations (01)](#demonstrations)
+- [Demonstrations (04)](#demonstrations)
 - [Projects (01)](#projects)
 
 ## Blog Posts
@@ -951,32 +951,68 @@ Location: <a href="https://www.google.com/maps/?q=-23.553513,-46.657505" target=
 
 ## Demonstrations
 
-### <a href="https://" target="_blank">0000-01-01 - Title (pt-br)</a>
+### <a href="https://youtu.be/sDfTwL1BPjo" target="_blank">2018-01-18 - NodeRED | Chatbot with Telegram and REDbot [PT-BR] (pt-br)</a>
 
 
 Abstract:
 
->  description 
+> Aprenda a criar um chatbot com Telegram e REDbot 
 > 
 > 
 
 
-_Tags: `teste`_
+_Tags: `NodeRED`_
+
+### <a href="https://youtu.be/87FIZedAhP8" target="_blank">2018-01-17 - NodeRED | Ferramentas básicas I (pt-br)</a>
+
+
+Abstract:
+
+>  Galera, abordei nesse video um pouco sobre as ferramentas básicas do NodeRED! ✴Assuntos desse vídeo:  -Flow's -Sub-flow's -Import/export         -Search Flow         -Node Configurations
+> 
+> 
+
+
+_Tags: `NodeRED`_
+
+### <a href="https://youtu.be/SF822-fJ5nE" target="_blank">2018-01-10 -  [ Leg - PT/BR ] - Node-RED | Como funciona? (pt-br)</a>
+
+
+Abstract:
+
+>  Como funciona o NodeRED 
+> 
+> 
+
+
+_Tags: `NodeRED`_
+
+### <a href="https://youtu.be/8XFugOewDYY" target="_blank">2018-01-02 -  NodeRED | Seja Dev sem saber programar (pt-br)</a>
+
+
+Abstract:
+
+>  Introdução ao NodeRED 
+> 
+> 
+
+
+_Tags: `NodeRED`_
 
 
 ## Projects
 
-### <a href="https:// " target="_blank">0000-01-01 - Teste projects (pt-br)</a>
+### <a href="https://youtu.be/sDfTwL1BPjo" target="_blank">2018-01-18 - NodeRED | Chatbot with Telegram and REDbot [PT-BR] (pt-br)</a>
 
 
 Abstract:
 
->  
+> Aprenda a criar um chatbot com Telegram e REDbot 
 > 
 > 
 
 
-_Tags: `teste`, `teste`_
+_Tags: `Nodered`, `telegram`, `chatbot`_
 
 
 

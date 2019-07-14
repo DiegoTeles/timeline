@@ -1,12 +1,12 @@
 [
     {
-        "title": "Teste projects",
-        "abstract": " ",
+        "title": "NodeRED | Chatbot with Telegram and REDbot [PT-BR]",
+        "abstract": "Aprenda a criar um chatbot com Telegram e REDbot ",
         "type": "project",
-        "link": "https:// ",
-        "tags": ["teste", "teste"],
-        "additionalLinks": [""],
+        "link": "https://youtu.be/sDfTwL1BPjo",
+        "tags": ["Nodered", "telegram", "chatbot"],
+        "additionalLinks": [],
         "language": "pt-br",
-        "date": "0000-01-01"
+        "date": "2018-01-18"
     }
 ]
