@@ -20,6 +20,6 @@
   "dependencies": {
     "jimp": "^0.6.4",
     "json2md": "^1.6.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
